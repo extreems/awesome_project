@@ -1,6 +1,6 @@
 # Script Name		:               dir_test.py
-# Author		:               Sergey Gubar
-# Created		:               28th Feb 2017
+# Author		:               Craig Richards
+# Created		:               29th November 2011
 # Last Modified		:
 # Version		:               1.0
 # Modifications		:
@@ -14,5 +14,5 @@
 
 import os                               # Import the OS module
 
-if not os.path.exists('testdir'):       # Check if directory exists
+if not os.path.exists('testdir'):       # Check to see if it exists
     os.makedirs('testdir')              # Create the directory
