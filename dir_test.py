@@ -1,6 +1,6 @@
 # Script Name		:               dir_test.py
-# Author		:               Craig Richards
-# Created		:               29th November 2011
+# Author		:               Sergey Gubar
+# Created		:               28th Feb 2017
 # Last Modified		:
 # Version		:               1.0
 # Modifications		:
